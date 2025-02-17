@@ -6,32 +6,6 @@ public class ConvertitoreValute {
                                                 1.04, // EUR a USD
                                                 0.83, // EUR a GBP
                                                 159.66}; // EUR a JPY
-    private int valPartenza;
-    private int valDestinazione;
-    private double importo;
-    //
-
-    //Getters e Setters
-    public int getValPartenza() {
-        return valPartenza;
-    }
-    public void setValPartenza(int valPartenza) {
-        this.valPartenza = valPartenza;
-    }
-
-    public int getValDestinazione() {
-        return valDestinazione;
-    }
-    public void setValDestinazione(int valDestinazione) {
-        this.valDestinazione = valDestinazione;
-    }
-
-    public double getImporto() {
-        return importo;
-    }
-    public void setImporto(double importo) {
-        this.importo = importo;
-    }
     //
 
     //Metodi
